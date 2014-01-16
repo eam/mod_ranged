@@ -1,4 +1,0 @@
-default:
-  name: perl-seco-libcrange
-  version: '1.1'
-  summary: Seco::Libcrange
